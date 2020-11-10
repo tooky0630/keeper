@@ -1,5 +1,3 @@
-module keeper
+module github.com/tooky0630/keeper
 
-go 1.14
-
-require github.com/gin-gonic/gin v1.6.3 // indirect
+go 1.15
